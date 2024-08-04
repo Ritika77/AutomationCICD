@@ -22,6 +22,8 @@ public class LandingPage extends AbstractComponent{
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
+
+	// demo for jenkins ci/cd
 	
 // 	WebElement userEmail = driver.findElement(By.id("userEmail"));
 	
